@@ -1,0 +1,23 @@
+commit ce894a4f1ae7e519221a20091a33f6c99a8554f1
+Author: Venecaat <asdasd@gmail.com>
+Date:   Fri Apr 22 20:32:00 2022 +0200
+
+    Renamed lorem.txt to lorem_impsum.txt
+
+commit 9e10c6e796abbd4f0a3a58ea5d8e1e66b8e31808
+Author: Venecaat <asdasd@gmail.com>
+Date:   Fri Apr 22 20:28:24 2022 +0200
+
+    Added 3 lines to lorem.txt
+
+commit cc136daf41eace8b1f0b5d4a621c0eda96361a2e
+Author: Venecaat <asdasd@gmail.com>
+Date:   Fri Apr 22 15:52:56 2022 +0200
+
+    Added gitignore for temp dir and .tmp ext
+
+commit 9f2f1592dcfe5dc3e760a30fe6ff9b6142099171
+Author: DESKTOP-TV3PTH1\Renegaat <asdasd@gmail.com>
+Date:   Fri Apr 22 15:17:57 2022 +0200
+
+    Added data folder and lorem.txt
